@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandParames">
+        <attr name="animal_duration" format="integer"></attr>
+        <attr name="max_expend_lines" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
